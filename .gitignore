@@ -1,0 +1,15 @@
+# Папки с обучением (весят очень много)
+runs
+.pt
+
+# Папки с исходными фото и разметкой (они уже сохранены у вас локально, если что)
+raw_photos
+datasetimages
+datasetlabels
+preview
+labels_raw
+
+# Системные файлы и кэш
+__pycache__
+.pyc
+.cache
